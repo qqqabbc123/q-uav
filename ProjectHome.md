@@ -1,0 +1,3 @@
+The aim of the project is the implementation of an unmanned air vehicle based in a quad rotor model. The UAV should support autostabilization, automatic altitude control, and advanced nagigation, this is flight path load, mission data load, automatic take off and landing and mission specific payload management.
+
+The project should include the GCS (Ground Control Station) development and integration with many kind of applications like PFD (Primary Flight Display), Navigation Display, Waypoint Visualization, Vehicle operating state visualization and management, Warnings Management, Payload visualization and management, Flight Plan load and modification, and much more.
